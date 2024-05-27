@@ -25,7 +25,7 @@ Vinyl Catalog is a comprehensive Symfony-based application designed to manage yo
 4. Install dependencies: `composer install`
 5. Set up the database and run migrations: `php bin/console doctrine:migrations:migrate`
 6. Start the Symfony server: `symfony server:start`
-7. Access the application in your browser at http://localhost:8000.
+7. Access the application in your browser at http://localhost:8000/login.
 
 ## Usage
 
